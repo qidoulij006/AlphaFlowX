@@ -201,7 +201,7 @@ export function LandingPage() {
                 rel="noreferrer"
                 className="font-medium text-nofx-gold hover:underline"
               >
-                AGPL-3.0 Source modified from NoFxAiOS/nofx / 基于 NoFxAiOS/nofx 二次开发后的源码
+                AGPL-3.0 Source from nofx / 基于 nofx 二次开发后的源码
               </a>
             </div>
           </footer>
