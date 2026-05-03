@@ -194,6 +194,16 @@ export function LandingPage() {
           <footer className="border-t border-[var(--panel-border)] px-5 py-6 text-center text-xs leading-6 text-[var(--text-secondary)]">
             <div>AlphaFlowX is non-custodial trading software. Trading involves risk.</div>
             <div>AlphaFlowX 是非托管交易软件。交易存在风险，请谨慎使用。</div>
+            <div>
+              <a
+                href="https://github.com/qidoulij006/AlphaFlowX"
+                target="_blank"
+                rel="noreferrer"
+                className="font-medium text-nofx-gold hover:underline"
+              >
+                AGPL-3.0 Source modified from NoFxAiOS/nofx / 基于 NoFxAiOS/nofx 二次开发后的源码
+              </a>
+            </div>
           </footer>
         </main>
 
