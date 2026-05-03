@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">AlphaFlowX Symbol</title>
+  <desc id="desc">An ultra-minimal AlphaFlowX symbol with a single monoline peak mark.</desc>
+  <defs>
+    <linearGradient id="shell" x1="34" y1="26" x2="222" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFF8ED"/>
+      <stop offset="0.58" stop-color="#F1DFC2"/>
+      <stop offset="1" stop-color="#DDC29A"/>
+    </linearGradient>
+    <linearGradient id="core" x1="54" y1="42" x2="202" y2="214" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D222B"/>
+      <stop offset="1" stop-color="#0B0E13"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="90" y1="74" x2="170" y2="176" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFE08F"/>
+      <stop offset="0.5" stop-color="#F0B90B"/>
+      <stop offset="1" stop-color="#C98A00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="256" height="256" rx="64" fill="url(#shell)"/>
+  <rect x="18" y="18" width="220" height="220" rx="52" fill="url(#core)"/>
+  <rect x="19" y="19" width="218" height="218" rx="51" fill="none" stroke="#FFFFFF" stroke-opacity="0.12"/>
+
+  <path
+    d="M82 176L128 78l46 98"
+    fill="none"
+    stroke="url(#gold)"
+    stroke-width="28"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>

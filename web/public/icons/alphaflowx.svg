@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">AlphaFlowX Logo</title>
+  <desc id="desc">A warm, Apple-inspired rounded badge with a clear AlphaFlowX monogram.</desc>
+  <defs>
+    <linearGradient id="afx-shell" x1="40" y1="28" x2="216" y2="228" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFF8EE"/>
+      <stop offset="0.55" stop-color="#F4E5CC"/>
+      <stop offset="1" stop-color="#E5CFAC"/>
+    </linearGradient>
+    <linearGradient id="afx-core" x1="60" y1="52" x2="196" y2="208" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1E232B"/>
+      <stop offset="1" stop-color="#0D1015"/>
+    </linearGradient>
+    <linearGradient id="afx-gold" x1="92" y1="82" x2="168" y2="176" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFD978"/>
+      <stop offset="0.52" stop-color="#F0B90B"/>
+      <stop offset="1" stop-color="#C88900"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="256" height="256" rx="64" fill="url(#afx-shell)"/>
+  <rect x="20" y="20" width="216" height="216" rx="50" fill="url(#afx-core)"/>
+  <rect x="21" y="21" width="214" height="214" rx="49" fill="none" stroke="#FFFFFF" stroke-opacity="0.12"/>
+
+  <path
+    d="M128 68L88 182h22l8-24h20l-7-20h-6l3-10 19 54h22L128 68z"
+    fill="url(#afx-gold)"
+  />
+
+  <path
+    d="M111 120h58v14h-23l20 28h-19l-17-24v24h-19V120z"
+    fill="#F8F4EC"
+  />
+
+  <path
+    d="M150 92h20l-12 18 13 18h-20l-4-7-4 7h-20l13-18-12-18h20l3 6 3-6z"
+    fill="url(#afx-gold)"
+  />
+</svg>

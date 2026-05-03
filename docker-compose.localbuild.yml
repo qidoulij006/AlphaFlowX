@@ -1,0 +1,12 @@
+services:
+  nofx:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.backend
+    image: nofx-backend-local:latest
+
+  nofx-frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.frontend
+    image: nofx-frontend-local:latest

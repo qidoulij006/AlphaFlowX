@@ -1,0 +1,17 @@
+AlphaFlowX AGPL Source Notice
+
+This source package is prepared for AGPL-3.0 compliance for the
+AlphaFlowX public web service.
+
+AlphaFlowX is a modified work based on the open-source project:
+https://github.com/NoFxAiOS/nofx
+
+The project is distributed under the GNU Affero General Public License
+version 3. See LICENSE for the full license text.
+
+Operational data is intentionally excluded from this public source
+package, including runtime databases, logs, backups, environment files,
+JWT secrets, API keys, private keys, and user trading data.
+
+This package contains source code and documentation only. It is not a
+runtime backup and must not be used as a source of production secrets.

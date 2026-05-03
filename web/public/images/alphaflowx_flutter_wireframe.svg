@@ -1,0 +1,78 @@
+<svg width="1600" height="1180" viewBox="0 0 1600 1180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1180" fill="#F3F5F8"/>
+  <text x="60" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#101828">AlphaFlowX Flutter 低保真原型</text>
+  <text x="60" y="108" font-family="Arial, sans-serif" font-size="18" fill="#475467">基于现有 Flutter 页面结构：首页 / 交易员详情 / 排行榜 / 我的</text>
+
+  <g transform="translate(60,160)">
+    <rect x="0" y="0" width="320" height="860" rx="42" fill="#111827"/>
+    <rect x="12" y="12" width="296" height="836" rx="34" fill="#FFFFFF"/>
+    <text x="28" y="48" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#101828">首页</text>
+    <rect x="28" y="70" width="240" height="14" rx="7" fill="#D0D5DD"/>
+    <rect x="28" y="108" width="264" height="118" rx="22" fill="#EAECF0" stroke="#98A2B3" stroke-dasharray="8 6"/>
+    <text x="42" y="140" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#101828">今日总览卡片</text>
+    <rect x="42" y="160" width="96" height="34" rx="10" fill="#FFFFFF" stroke="#98A2B3"/>
+    <rect x="154" y="160" width="96" height="34" rx="10" fill="#FFFFFF" stroke="#98A2B3"/>
+    <text x="42" y="258" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#101828">关键状态</text>
+    <g transform="translate(28,276)">
+      <rect x="0" y="0" width="126" height="92" rx="18" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="138" y="0" width="126" height="92" rx="18" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="0" y="104" width="126" height="92" rx="18" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="138" y="104" width="126" height="92" rx="18" fill="#F8FAFC" stroke="#98A2B3"/>
+    </g>
+    <text x="28" y="500" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#101828">关注中的交易员</text>
+    <g transform="translate(28,520)">
+      <rect x="0" y="0" width="264" height="110" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="0" y="124" width="264" height="110" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="0" y="248" width="264" height="110" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+    </g>
+    <rect x="28" y="786" width="264" height="42" rx="18" fill="#EAECF0" stroke="#98A2B3"/>
+    <text x="55" y="813" font-family="Arial, sans-serif" font-size="14" fill="#475467">底部导航：首页 / 交易员 / 排行榜 / 我的</text>
+  </g>
+
+  <g transform="translate(430,160)">
+    <rect x="0" y="0" width="320" height="860" rx="42" fill="#111827"/>
+    <rect x="12" y="12" width="296" height="836" rx="34" fill="#FFFFFF"/>
+    <text x="28" y="48" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#101828">交易员详情</text>
+    <rect x="28" y="72" width="180" height="14" rx="7" fill="#D0D5DD"/>
+    <rect x="28" y="102" width="264" height="150" rx="24" fill="#EAECF0" stroke="#98A2B3" stroke-dasharray="8 6"/>
+    <text x="42" y="132" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#101828">头部摘要 / 标签 / 净值收益</text>
+    <rect x="28" y="272" width="264" height="140" rx="22" fill="#F8FAFC" stroke="#98A2B3"/>
+    <text x="42" y="302" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#101828">净值曲线</text>
+    <g transform="translate(28,432)">
+      <rect x="0" y="0" width="264" height="102" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="0" y="118" width="264" height="102" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="0" y="236" width="264" height="102" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+    </g>
+    <text x="42" y="468" font-family="Arial, sans-serif" font-size="14" fill="#475467">持仓 / 挂单 / 最近决策 / 风控卡片流</text>
+  </g>
+
+  <g transform="translate(800,160)">
+    <rect x="0" y="0" width="320" height="860" rx="42" fill="#111827"/>
+    <rect x="12" y="12" width="296" height="836" rx="34" fill="#FFFFFF"/>
+    <text x="28" y="48" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#101828">排行榜</text>
+    <rect x="28" y="74" width="230" height="14" rx="7" fill="#D0D5DD"/>
+    <rect x="28" y="112" width="264" height="84" rx="20" fill="#EAECF0" stroke="#98A2B3"/>
+    <text x="42" y="143" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#101828">今日焦点说明卡</text>
+    <g transform="translate(28,220)">
+      <rect x="0" y="0" width="264" height="104" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="0" y="118" width="264" height="104" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="0" y="236" width="264" height="104" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+      <rect x="0" y="354" width="264" height="104" rx="20" fill="#F8FAFC" stroke="#98A2B3"/>
+    </g>
+    <text x="42" y="258" font-family="Arial, sans-serif" font-size="14" fill="#475467">榜单卡：排名 / 名称 / AI模型 / 交易所 / 收益 / 净值</text>
+  </g>
+
+  <g transform="translate(1170,160)">
+    <rect x="0" y="0" width="320" height="860" rx="42" fill="#111827"/>
+    <rect x="12" y="12" width="296" height="836" rx="34" fill="#FFFFFF"/>
+    <text x="28" y="48" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#101828">我的</text>
+    <rect x="28" y="76" width="264" height="172" rx="24" fill="#EAECF0" stroke="#98A2B3"/>
+    <text x="42" y="112" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#101828">账号信息卡</text>
+    <text x="42" y="136" font-family="Arial, sans-serif" font-size="14" fill="#475467">头像 / 邮箱 / App路线 / 当前能力</text>
+    <rect x="28" y="270" width="264" height="238" rx="24" fill="#F8FAFC" stroke="#98A2B3"/>
+    <text x="42" y="306" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#101828">下一阶段</text>
+    <rect x="42" y="438" width="236" height="44" rx="16" fill="#FFFFFF" stroke="#98A2B3"/>
+    <text x="110" y="466" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#101828">退出登录</text>
+    <text x="42" y="540" font-family="Arial, sans-serif" font-size="14" fill="#475467">风格：轻操作，重信息状态确认</text>
+  </g>
+</svg>

@@ -1,0 +1,162 @@
+<svg width="1600" height="1300" viewBox="0 0 1600 1300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09111C"/>
+      <stop offset="1" stop-color="#101A2B"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="280" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#121B2A"/>
+      <stop offset="1" stop-color="#192436"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="264" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#182033"/>
+      <stop offset="0.55" stop-color="#1B2640"/>
+      <stop offset="1" stop-color="#23304A"/>
+    </linearGradient>
+    <filter id="shadow" x="-40" y="-40" width="420" height="960" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#000000" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="1300" fill="url(#bg)"/>
+  <text x="60" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#F6F7FB">AlphaFlowX Flutter 高保真渲染稿</text>
+  <text x="60" y="108" font-family="Arial, sans-serif" font-size="18" fill="#98A6C7">移动端卡片流，深色交易风格，优先净值 / 持仓 / 挂单 / 决策 / 风控</text>
+
+  <g transform="translate(60,170)" filter="url(#shadow)">
+    <rect width="320" height="880" rx="46" fill="#0A0F17"/>
+    <rect x="14" y="14" width="292" height="852" rx="34" fill="#090D14"/>
+    <text x="30" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#F6F7FB">AlphaFlowX</text>
+    <text x="30" y="74" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">首页总览</text>
+    <circle cx="268" cy="48" r="18" fill="#161E2C"/>
+    <rect x="28" y="96" width="264" height="146" rx="28" fill="url(#hero)" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    <text x="46" y="132" font-family="Arial, sans-serif" font-size="16" fill="#95A0B8">今日总览</text>
+    <text x="46" y="176" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#F6F7FB">$28,540.21</text>
+    <text x="46" y="202" font-family="Arial, sans-serif" font-size="14" fill="#28D17C">+6.8% 本周</text>
+    <rect x="46" y="214" width="92" height="34" rx="14" fill="#F0B90B"/>
+    <text x="66" y="236" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#151922">18 运行中</text>
+    <rect x="28" y="266" width="126" height="96" rx="22" fill="#111723"/>
+    <rect x="166" y="266" width="126" height="96" rx="22" fill="#111723"/>
+    <rect x="28" y="374" width="126" height="96" rx="22" fill="#111723"/>
+    <rect x="166" y="374" width="126" height="96" rx="22" fill="#111723"/>
+    <text x="44" y="296" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">平均收益率</text>
+    <text x="44" y="332" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#28D17C">+12.4%</text>
+    <text x="182" y="296" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">总交易员</text>
+    <text x="182" y="332" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#4DA7FF">32</text>
+    <text x="44" y="404" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">运行中</text>
+    <text x="44" y="440" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#F0B90B">18</text>
+    <text x="182" y="404" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">待关注</text>
+    <text x="182" y="440" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FF6363">14</text>
+    <text x="30" y="516" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F6F7FB">关注中的交易员</text>
+    <g transform="translate(28,536)">
+      <rect width="264" height="106" rx="22" fill="#111723"/>
+      <rect y="120" width="264" height="106" rx="22" fill="#111723"/>
+      <rect y="240" width="264" height="106" rx="22" fill="#111723"/>
+      <text x="18" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F6F7FB">DeepSeek Grid 20</text>
+      <text x="18" y="54" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">DOGEUSDT · Binance</text>
+      <text x="198" y="34" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#28D17C">+8.2%</text>
+      <text x="18" y="150" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F6F7FB">Claw402 Grid</text>
+      <text x="18" y="174" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">DOGEUSDT · Binance</text>
+      <text x="198" y="154" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#4DA7FF">+5.9%</text>
+      <text x="18" y="270" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F6F7FB">OKX DeepSeek</text>
+      <text x="18" y="294" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">DOGEUSDT · OKX</text>
+      <text x="198" y="274" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F0B90B">+3.1%</text>
+    </g>
+    <rect x="28" y="810" width="264" height="42" rx="18" fill="#111723"/>
+    <circle cx="68" cy="831" r="7" fill="#F0B90B"/>
+    <circle cx="128" cy="831" r="7" fill="#95A0B8"/>
+    <circle cx="188" cy="831" r="7" fill="#95A0B8"/>
+    <circle cx="248" cy="831" r="7" fill="#95A0B8"/>
+  </g>
+
+  <g transform="translate(430,170)" filter="url(#shadow)">
+    <rect width="320" height="880" rx="46" fill="#0A0F17"/>
+    <rect x="14" y="14" width="292" height="852" rx="34" fill="#090D14"/>
+    <text x="30" y="50" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#F6F7FB">qidou.万U实盘</text>
+    <text x="30" y="74" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">交易员详情</text>
+    <rect x="28" y="96" width="264" height="172" rx="28" fill="url(#hero)"/>
+    <rect x="44" y="114" width="74" height="28" rx="14" fill="#111723"/>
+    <rect x="126" y="114" width="82" height="28" rx="14" fill="#111723"/>
+    <rect x="216" y="114" width="52" height="28" rx="14" fill="#111723"/>
+    <text x="44" y="160" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#F6F7FB">持有现有仓位</text>
+    <text x="44" y="190" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">DOGE 下跌趋势，暂停新增，仅保留退出覆盖</text>
+    <rect x="44" y="210" width="104" height="42" rx="16" fill="#111723"/>
+    <rect x="158" y="210" width="104" height="42" rx="16" fill="#111723"/>
+    <text x="58" y="228" font-family="Arial, sans-serif" font-size="12" fill="#95A0B8">净值</text>
+    <text x="58" y="246" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F6F7FB">$10,034</text>
+    <text x="172" y="228" font-family="Arial, sans-serif" font-size="12" fill="#95A0B8">收益率</text>
+    <text x="172" y="246" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#28D17C">+4.8%</text>
+    <rect x="28" y="286" width="264" height="130" rx="24" fill="#111723"/>
+    <polyline points="44,376 86,348 128,354 170,326 212,332 254,304" stroke="#F0B90B" stroke-width="4" fill="none"/>
+    <text x="44" y="314" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F6F7FB">净值曲线</text>
+    <g transform="translate(28,436)">
+      <rect width="264" height="90" rx="20" fill="#111723"/>
+      <rect y="106" width="264" height="90" rx="20" fill="#111723"/>
+      <rect y="212" width="264" height="90" rx="20" fill="#111723"/>
+      <rect y="318" width="264" height="90" rx="20" fill="#111723"/>
+      <text x="18" y="28" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#F6F7FB">持仓</text>
+      <text x="18" y="50" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">LONG DOGE · 89,735 · 均价 0.09328</text>
+      <text x="18" y="134" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#F6F7FB">挂单</text>
+      <text x="18" y="156" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">SELL reduce-only · 0.09420 · 19,344</text>
+      <text x="18" y="240" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#F6F7FB">最近决策</text>
+      <text x="18" y="262" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">pause_grid：趋势下跌，保护现有仓位</text>
+      <text x="18" y="346" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#F6F7FB">风控</text>
+      <text x="18" y="368" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">模式：Paused · 库存：单边多头 · 风险提醒：趋势中</text>
+    </g>
+  </g>
+
+  <g transform="translate(800,170)" filter="url(#shadow)">
+    <rect width="320" height="880" rx="46" fill="#0A0F17"/>
+    <rect x="14" y="14" width="292" height="852" rx="34" fill="#090D14"/>
+    <text x="30" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#F6F7FB">排行榜</text>
+    <text x="30" y="74" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">围观实盘表现</text>
+    <rect x="28" y="96" width="264" height="92" rx="24" fill="#111723"/>
+    <text x="46" y="130" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F6F7FB">今日焦点</text>
+    <text x="46" y="156" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">移动端优先只读围观，不暴露复杂后台设置</text>
+    <g transform="translate(28,212)">
+      <rect width="264" height="104" rx="24" fill="#111723"/>
+      <rect y="118" width="264" height="104" rx="24" fill="#111723"/>
+      <rect y="236" width="264" height="104" rx="24" fill="#111723"/>
+      <rect y="354" width="264" height="104" rx="24" fill="#111723"/>
+      <rect x="16" y="16" width="52" height="52" rx="18" fill="#161E2C"/>
+      <text x="28" y="48" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F0B90B">#1</text>
+      <text x="84" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F6F7FB">DOGE Neutral Grid</text>
+      <text x="84" y="60" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">DeepSeek · Binance</text>
+      <text x="212" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#28D17C">+18.2%</text>
+      <text x="220" y="61" font-family="Arial, sans-serif" font-size="12" fill="#95A0B8">$21.5k</text>
+      <text x="28" y="166" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#4DA7FF">#2</text>
+      <text x="84" y="156" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F6F7FB">Claw402 Grid</text>
+      <text x="84" y="178" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">Qwen · Binance</text>
+      <text x="212" y="158" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#4DA7FF">+12.6%</text>
+      <text x="28" y="284" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F6F7FB">#3</text>
+      <text x="84" y="274" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F6F7FB">OKX Copy Grid</text>
+      <text x="84" y="296" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">DeepSeek · OKX</text>
+      <text x="212" y="276" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F0B90B">+9.4%</text>
+      <text x="28" y="402" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F6F7FB">#4</text>
+      <text x="84" y="392" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#F6F7FB">Trend Watch</text>
+      <text x="84" y="414" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">Qwen · Bybit</text>
+      <text x="212" y="394" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FF6363">-2.8%</text>
+    </g>
+  </g>
+
+  <g transform="translate(1170,170)" filter="url(#shadow)">
+    <rect width="320" height="880" rx="46" fill="#0A0F17"/>
+    <rect x="14" y="14" width="292" height="852" rx="34" fill="#090D14"/>
+    <text x="30" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#F6F7FB">我的</text>
+    <text x="30" y="74" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">账号与路线</text>
+    <rect x="28" y="96" width="264" height="176" rx="28" fill="#111723"/>
+    <circle cx="70" cy="142" r="30" fill="#161E2C"/>
+    <text x="114" y="138" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F6F7FB">operator@alphaflowx.com</text>
+    <text x="114" y="162" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">已登录 AlphaFlowX 移动端</text>
+    <text x="44" y="210" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">App 路线</text>
+    <text x="196" y="210" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#F6F7FB">Flutter Native</text>
+    <text x="44" y="236" font-family="Arial, sans-serif" font-size="13" fill="#95A0B8">当前形态</text>
+    <text x="178" y="236" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#F6F7FB">真实接口已接入</text>
+    <rect x="28" y="292" width="264" height="248" rx="28" fill="#111723"/>
+    <text x="46" y="328" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F6F7FB">下一阶段</text>
+    <text x="46" y="362" font-family="Arial, sans-serif" font-size="14" fill="#95A0B8">1. 补齐更多账户概览指标</text>
+    <text x="46" y="390" font-family="Arial, sans-serif" font-size="14" fill="#95A0B8">2. 细化交易员详情与风险提醒</text>
+    <text x="46" y="418" font-family="Arial, sans-serif" font-size="14" fill="#95A0B8">3. 完善测试与构建链路</text>
+    <text x="46" y="446" font-family="Arial, sans-serif" font-size="14" fill="#95A0B8">4. 对接推送与深链接</text>
+    <rect x="46" y="474" width="228" height="46" rx="18" fill="#F0B90B"/>
+    <text x="126" y="503" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#151922">退出登录</text>
+  </g>
+</svg>
